@@ -7,3 +7,6 @@
 [submodule "slider"]
 	path = slider
 	url = https://github.com/gmvang/slider.git
+[submodule "jqueryFAQ"]
+	path = jqueryFAQ
+	url = https://github.com/gmvang/jqueryFAQ.git
