@@ -1,3 +1,6 @@
 [submodule "timing"]
 	path = timing
 	url = https://github.com/gmvang/timing.git
+[submodule "lightbox"]
+	path = lightbox
+	url = https://github.com/gmvang/lightbox.git
