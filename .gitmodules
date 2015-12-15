@@ -13,3 +13,6 @@
 [submodule "MADlibs"]
 	path = MADlibs
 	url = https://github.com/gmvang/MADlibs.git
+[submodule "electricDreams"]
+	path = electricDreams
+	url = https://github.com/gmvang/electricDreams.git
