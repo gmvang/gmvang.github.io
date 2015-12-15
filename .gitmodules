@@ -1,0 +1,3 @@
+[submodule "timing"]
+	path = timing
+	url = https://github.com/gmvang/timing.git
