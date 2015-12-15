@@ -4,3 +4,6 @@
 [submodule "lightbox"]
 	path = lightbox
 	url = https://github.com/gmvang/lightbox.git
+[submodule "slider"]
+	path = slider
+	url = https://github.com/gmvang/slider.git
